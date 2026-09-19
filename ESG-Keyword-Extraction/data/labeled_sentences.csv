@@ -1,0 +1,13 @@
+sentence,keyword,is_esg,category
+"The company reduced Scope 1 greenhouse gas emissions through energy efficiency projects.","scope 1 emissions|energy efficiency",1,E
+"Renewable electricity procurement increased during the reporting year.","renewable electricity",1,E
+"Water consumption intensity decreased across operating sites.","water consumption|water intensity",1,E
+"The company assessed biodiversity risks around operating sites.",biodiversity,1,E
+"Employees received occupational health and safety training.","occupational health and safety|employee training",1,S
+"The company maintains a human rights policy for workers and suppliers.","human rights|supply chain",1,S
+"The company expanded diversity and inclusion programs.","diversity and inclusion",1,S
+"The board includes independent directors and an audit committee.","board independence|audit committee",1,G
+"The code of conduct covers anti-corruption and whistleblowing.","anti-corruption|whistleblower",1,G
+"The company strengthened data privacy and cybersecurity controls.","data privacy|cybersecurity",1,G
+"The company generated revenue from product sales during the year.",,0,
+"The board approved the annual financial statements.",,0,
